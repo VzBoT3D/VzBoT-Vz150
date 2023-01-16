@@ -6,6 +6,6 @@ Download the full manual, which includes BOM & print list for all aluminum goodn
 
 Vz150 uses the Aluminium AWD and 2WD mounts from the Vz235. this also includes the Front motor mounts and aluminium Y mounts.
 
-For the Aluminium Y mounts a extra adapter piece is needed found here: 
+For the Aluminium Y mounts a extra adapter piece is needed found here: [adapter](https://github.com/VzBoT3D/VzBoT-Vz150/tree/main/Aluminum%20parts/Y%20gantry%20adapter)
 
 ![AWD gantry4](https://user-images.githubusercontent.com/93674339/166983441-5e27ca06-7647-4eaf-8d82-ff87bc448654.png)
