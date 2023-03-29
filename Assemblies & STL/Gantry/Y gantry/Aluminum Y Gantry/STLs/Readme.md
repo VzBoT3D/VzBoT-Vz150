@@ -1,4 +1,4 @@
-This part is best when made in aluminium.
+The MGN9C adapter is best when made in aluminium.
 
 BOM:
 
