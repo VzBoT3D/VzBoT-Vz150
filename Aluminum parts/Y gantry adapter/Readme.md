@@ -1,3 +1,6 @@
+The adapters can be bought here (MGN9C Adapter)[https://s.click.aliexpress.com/e/_DBB861L]
+
+Or you can make them yourself with the provided file.
 This part is best when made in aluminium.
 
 BOM:
