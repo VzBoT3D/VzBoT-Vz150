@@ -9,8 +9,3 @@
 - Super8 Pro Klipper info: https://mellow.klipper.cn/#/board/fly_super8_pro/
 
 
-
-
-- CPAP
-<img width="964" alt="image" src="https://user-images.githubusercontent.com/37383368/210031622-09749b48-08df-4b7d-8248-3eb55e4c368b.png">
-
